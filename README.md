@@ -8,6 +8,7 @@
 5. [Object.defineProperty()](./src/05_1.js)
 6. [两者结合](./src/05_2.js)
 7. [Reactivity](./src/06_0.js)
+8. 待优化...
 
 ### 参考资料
 + [Vue.js是如何做到数据响应的](http://web.jobbole.com/95035/)
