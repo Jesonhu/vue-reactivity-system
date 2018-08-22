@@ -13,3 +13,9 @@
 ### 参考资料
 + [Vue.js是如何做到数据响应的](http://web.jobbole.com/95035/)
 + 订阅者模式
++ [Object.defineProperty()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
++ [JavaScript中typeof详解](https://www.cnblogs.com/liu-fei-fei/p/7715870.html)
++ [Vue技术内幕](http://hcysun.me/vue-design/art/1start-learn.html)
++ Vue Dev分支源码:
+  + [vue/src/core/observer/dep.js--Dep实现](https://github.com/vuejs/vue/blob/dev/src/core/observer/dep.js)
+  + [vue/src/core/observer/index.js--定义Getter和Setter](https://github.com/vuejs/vue/blob/dev/src/core/observer/index.js)
